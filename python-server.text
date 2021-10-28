@@ -1,0 +1,11 @@
+######### Run a simple python server ########
+
+python 2^
+-> python -m SimpleHTTPServer
+
+python 3^
+-> python -m http.server <port number>
+
+######## Using NPM #########
+-> npm install -g http-server 
+-> http-server -o 
